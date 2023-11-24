@@ -11,7 +11,8 @@
         android:layout_height="729dp"
         android:background="#DFDFDF"
         tools:layout_editor_absoluteX="1dp"
-        tools:layout_editor_absoluteY="1dp">
+        tools:layout_editor_absoluteY="1dp"
+        tools:ignore="MissingConstraints">
 
         <TableRow
             android:layout_width="match_parent"

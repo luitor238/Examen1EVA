@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Examen1</string>
-    <toolbarTittle name="title">Crazy Layout</toolbarTittle>
     <string name="titt">Crazy Layaout</string>
     <string name="Producto">Producto</string>
     <string name="Subtotal">Subtotal</string>
