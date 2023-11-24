@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Examen1</string>
+    <toolbarTittle name="title">Crazy Layout</toolbarTittle>
+    <string name="titt">Crazy Layaout</string>
+    <string name="Producto">Producto</string>
+    <string name="Subtotal">Subtotal</string>
+    <string name="Jabon">Jabón de manos x 1</string>
+    <string name="Shampoo">Shampoo Monster x 1</string>
+    <string name="Pastas">Pastas Duria x 2</string>
+    <string name="Detergente">Detergente Limpiadin x 1</string>
+    <string name="Costo">Costo envío</string>
+    <string name="Cupon">Cupón</string>
+    <string name="Total">Total</string>
+    <string name="n2">$2</string>
+    <string name="n10">$10</string>
+    <string name="n18">$18</string>
+    <string name="n13.4">$13,4</string>
+    <string name="n43.4">$43,4</string>
+    <string name="nn5">-$5</string>
+    <string name="n48.4">$48,4</string>
+</resources>
